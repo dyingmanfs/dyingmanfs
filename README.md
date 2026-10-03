@@ -16,5 +16,5 @@ My academic projects explore machine learning, computer vision, Java and Android
 - **[Data Structures and Algorithms in C](https://github.com/dyingmanfs/data-structures-algorithms)** — Hash tables with collision resolution and rehashing, plus weighted directed graphs and DFS route search.
 - **[AVR Embedded Projects](https://github.com/dyingmanfs/avr-embedded-projects)** — ATmega128 assembly projects covering arithmetic, timers, interrupts, traffic-light control, and LCD interfacing.
 
-Each repository documents its coursework context, setup requirements, and current limitations.
+Explore the linked repositories for source code, coursework context, and available setup details.
 
